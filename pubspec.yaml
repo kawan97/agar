@@ -1,7 +1,7 @@
 name: agar
 description: with agar package you can use if
 version: 0.0.1
-homepage:
+repository: "https://github.com/kawan97/agar"
 
 environment:
   sdk: '>=2.18.1 <3.0.0'

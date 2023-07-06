@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* with 0.0.1 version we have agar and agarWidget function if you want another function please send me a message 
