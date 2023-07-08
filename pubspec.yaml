@@ -1,6 +1,6 @@
 name: agar
 description: with agar package you can use if
-version: 0.0.1
+version: 0.0.2
 repository: "https://github.com/kawan97/agar"
 
 environment:
